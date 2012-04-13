@@ -2,7 +2,7 @@
   "author": "Thomas Aylott <thomas@subtlegradient.com>",
   "name": "hook.io-herd",
   "description": "A simple hook.io hook that spawns one child hook for each json config file in a given directory",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main" : "lib/herd",
   "repository": {
     "type": "git",
