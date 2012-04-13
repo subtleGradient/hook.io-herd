@@ -6,7 +6,7 @@
   "main" : "lib/herd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/subtleGradient/hook.io-herd.git"
+    "url": "git://github.com/subtleGradient/hook.io-herd.git"
   },
   "dependencies": {
     "hook.io": ">= 0.8.9"
